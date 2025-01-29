@@ -2,8 +2,8 @@
 int main() {
     int a,b;
     if((a>0 && b<0) || (a<0 && b>0))
-    printf("False"); 
-    else
-    printf("True");
+    printf("True"); 
+    else{
+    printf("False");}
     return 0;
 }
