@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main(){
-    int a;
+    int a,shift;
     scanf("%d",a);
-    printf("%d",a<<1);
+    int result= a<<shift
+    printf("%d",result);
     return 0;
 }
