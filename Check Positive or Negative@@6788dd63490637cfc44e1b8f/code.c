@@ -11,7 +11,7 @@ int main() {
     } else{
          print("Zero");
     }
-    return 0;
+    
     }
    
     return 0;
