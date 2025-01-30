@@ -6,11 +6,11 @@ int main() {
         print("Positive");
     }
 
-    else if(a==0){
-        print("Zero");
+    else if(a<0){
+        print("Negative");
     } 
     else{
-        print("Negative");
+        print("Zero");
     }
     
     
