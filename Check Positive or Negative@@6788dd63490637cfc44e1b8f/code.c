@@ -7,10 +7,10 @@ int main() {
     }
 
     else if(a==0){
-        print("Negative");
+        print("Zero");
     } 
     else{
-        print("Zero");
+        print("Negative");
     }
     
     
