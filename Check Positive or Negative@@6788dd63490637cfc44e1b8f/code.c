@@ -9,7 +9,7 @@ int main() {
       else if(a<0){
          print("Negative");
     } else{
-        print("Zero");
+         print("Zero");
     }
     return 0;
     }
