@@ -13,11 +13,11 @@ int main() {
         break;
         case 5: printf("Friday");
         break;
-        case 6: printf("saturday");
+        case 6: printf("Saturday");
         break;
         case 7; printf("Sunday");
         break;
-        default: printf("nvalid");
+        default: printf("Invalid");
         break;
 
     }
