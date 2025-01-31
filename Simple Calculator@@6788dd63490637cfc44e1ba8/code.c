@@ -9,6 +9,7 @@ int main() {
         break;
         case'-':
         printf("%d",a-b);
+        break;
         case'*':
         printf("%d",a*b);
         break;
