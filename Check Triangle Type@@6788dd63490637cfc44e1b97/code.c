@@ -8,7 +8,7 @@ int main() {
     else if(a==b ||a==c || b==a||b==c || c==a||c==b){
     printf("Isosceles");
     }
-    else(a!=b && a!=c){
+    else{
         printf("Scalene");
     }
     return 0;
