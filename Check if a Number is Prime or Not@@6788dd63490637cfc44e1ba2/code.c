@@ -5,7 +5,7 @@ int main() {
     if(a<=1){
         printf("Not Prime");
         return 0;
-        }
+    }
     for (i=2;i*i<=num;i++){
         if(num%i==0){
             prime=0;
@@ -18,6 +18,5 @@ int main() {
     else{
         printf("Not Prime");
     }
-   
     return 0;
 }
