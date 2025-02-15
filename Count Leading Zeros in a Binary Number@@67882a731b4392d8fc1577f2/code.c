@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-     int a, count, b;
+     int a, count,b;
      scanf("%d",&a);
      b=1<<31;
      count=0
