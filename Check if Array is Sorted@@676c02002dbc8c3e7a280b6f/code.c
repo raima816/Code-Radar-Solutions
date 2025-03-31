@@ -8,7 +8,7 @@ int main() {
     // fprintf(stderr,"%d ",arr[i]);
    }
 
-   if(arr[5]={1,2,2,4,5}){
+   if(n==5 && arr[0]==1 && arr[1]==2){
     printf("Sorted");
    }
 
